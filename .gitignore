@@ -101,3 +101,9 @@ cython_debug/
 
 # VS Code
 .vscode/
+# Ignore PyCharm project files
+.idea/
+
+# Ignore SonarLint files
+.idea/sonarlint/
+
